@@ -1,0 +1,190 @@
+{
+  "logo": "PHI-Red-Web-Icon-100x100px.ee9cc554.png",
+  "kategori": [
+    {
+      "id": "0",
+      "kategory": "all menu"
+    },
+    {
+      "id": "1",
+      "kategory": "pizza"
+    },
+    {
+      "id": "2",
+      "kategory": "pasta"
+    },
+    {
+      "id": "3",
+      "kategory": "nasi"
+    },
+    {
+      "id": "4",
+      "kategory": "snack"
+    }
+  ],
+  "menus": [
+    {
+      "id": "1",
+      "kategory": "pizza",
+      "nama": "Beef BBQ",
+      "gambar": "beef-bbq.png",
+      "deskripsi": "Frankfurter Sapi, Daging Sapi Cincang, dan Keju Mozzarella",
+      "harga": 120000,
+      "ukuran": "S, M, L, XL",
+      "rating": 4,
+      "suka": 30
+    },
+    {
+      "id": "2",
+      "kategory": "pizza",
+      "nama": "Cheesy Frank",
+      "gambar": "cheesy-frank.png",
+      "deskripsi": "Daging Sapi Cincang, Keju Mozzarella, dan Cabe Rawit",
+      "harga": 130000,
+      "ukuran": "S, M, L, XL",
+      "rating": 4.5,
+      "suka": 150
+    },
+    {
+      "id": "3",
+      "kategory": "pizza",
+      "nama": "Meaty",
+      "gambar": "meaty.png",
+      "deskripsi": "Frankfurter Sapi, Daging Sapi Asap, Daging Sapi Cincang, Jamur, dan Keju Mozzarella",
+      "harga": 115000,
+      "ukuran": "S, M, L, XL",
+      "rating": 5,
+      "suka": 10
+    },
+    {
+      "id": "4",
+      "kategory": "pizza",
+      "nama": "Creamy Chicken",
+      "gambar": "creamy-chicken.png",
+      "deskripsi": "Pepperoni Sapi, Daging Sapi Cincang, Onion, Jamur, dan Keju Mozzarella",
+      "harga": 110000,
+      "ukuran": "S, M, L, XL",
+      "rating": 4,
+      "suka": 600
+    },
+    {
+      "id": "5",
+      "kategory": "pizza",
+      "nama": "Tasty Tuna",
+      "gambar": "tasty-tuna.png",
+      "deskripsi": "Tuna, Daging Sapi Cincang, Jamur, dan Keju Mozzarella",
+      "harga": 100000,
+      "ukuran": "S, M, L",
+      "rating": 4,
+      "suka": 8
+    },
+    {
+      "id": "6",
+      "kategory": "pasta",
+      "nama": "Cheesy Beef Spaghetti",
+      "gambar": "cheesy-beef-spaghetti.png",
+      "deskripsi": "Pasta Fettuccine, Daging Ayam Asap, Saus Creamy dengan Chicken Strip dibalur Cream Cheese Mayo dan Beef Bits",
+      "harga": 50000,
+      "ukuran": "S, M, L"
+    },
+    {
+      "id": "7",
+      "kategory": "pasta",
+      "nama": "Mac 'N Cheese",
+      "gambar": "mac-n-cheese.png",
+      "deskripsi": "Pasta Fusilli, Pepperoni Sapi, Saus Keju Cheddar, Beef Bits dengan Saus Cheese Fondue",
+      "harga": 40000,
+      "ukuran": "S, M, L",
+      "rating": 5,
+      "suka": 31
+    },
+    {
+      "id": "8",
+      "kategory": "pasta",
+      "nama": "Chicken Fettuccine Alla Italia",
+      "gambar": "chicken-fettucine.png",
+      "deskripsi": "Pasta Fettuccine, Daging Ayam Cincang, Saus Keju Cheddar, Beef Bits",
+      "harga": 44000,
+      "ukuran": "S, M, L",
+      "rating": 3,
+      "suka": 2
+    },
+    {
+      "id": "9",
+      "kategory": "nasi",
+      "nama": "Rice omelette",
+      "gambar": "rice-omlette.png",
+      "deskripsi": "Nasi, Omelette, Daging Ayam Cincang, Saus Keju Cheddar, Beef Bits",
+      "harga": 12000,
+      "ukuran": "",
+      "rating": 4.3,
+      "suka": 10
+    },
+    {
+      "id": "10",
+      "kategory": "nasi",
+      "nama": "Chicken delight",
+      "gambar": "chicken-delight.png",
+      "deskripsi": "Nasi, Daging Ayam Cincang, Saus Keju Cheddar, Beef Bits",
+      "harga": 12000,
+      "ukuran": "",
+      "rating": 4,
+      "suka": 5
+    },
+    {
+      "id": "11",
+      "kategory": "snack",
+      "nama": "Cheesy Dough Ball",
+      "gambar": "cheesy-dough-ball.png",
+      "deskripsi": "Dough Ball, Keju Mozzarella, Cabe Rawit",
+      "harga": 10000,
+      "ukuran": "",
+      "rating": 4,
+      "suka": 1
+    },
+    {
+      "id": "12",
+      "kategory": "snack",
+      "nama": "Sausage Frankfurter BBQ",
+      "gambar": "beef-sausage-bites.png",
+      "deskripsi": "Daging Sapi Cincang, Saus Frankfurter, Beef Bits",
+      "harga": 10000,
+      "ukuran": "",
+      "rating": 4,
+      "suka": 1
+    },
+    {
+      "id": "13",
+      "kategory": "snack",
+      "nama": "Chicken Sticks",
+      "gambar": "chicken-sticks.png",
+      "deskripsi": "Daging Ayam Cincang, Beef Bits",
+      "harga": 10000,
+      "ukuran": "",
+      "rating": 4,
+      "suka": 2
+    },
+    {
+      "id": "14",
+      "kategory": "snack",
+      "nama": "Chocochiz Toast",
+      "gambar": "chocochiz-toast.png",
+      "deskripsi": "Daging Ayam Cincang, Chocochiz",
+      "harga": 10000,
+      "ukuran": "",
+      "rating": 4,
+      "suka": 4
+    },
+    {
+      "id": "15",
+      "kategory": "snack",
+      "nama": "Potato Wedges",
+      "gambar": "potato-wedges.png",
+      "deskripsi": "Potato Wedges, Daging Ayam Cincang",
+      "harga": 10000,
+      "ukuran": "",
+      "rating": 4,
+      "suka": 8
+    }
+  ]
+}
